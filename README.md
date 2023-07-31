@@ -3,8 +3,9 @@
 
 <div align="center">
 
-  ![giphy](https://github.com/romulofmarques/romulofmarques/assets/111899365/f70a924f-dadd-4d28-a390-49248e9795a0)
-
+   <img src="https://github.com/romulofmarques/romulofmarques/assets/111899365/f70a924f-dadd-4d28-a390-49248e9795a0"
+  width="300px"/>
+ 
 </div>
 
  
