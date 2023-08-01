@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" style="margin-bottom: 4px;" height="30px">
  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png"style="margin-bottom: 4px;" height="30px">
  </p>
 
 
